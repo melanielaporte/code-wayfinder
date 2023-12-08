@@ -1,2 +1,5 @@
 # CODE Wayfinder
-This product was created to provide a tool that allowing users to navigate various coding career opportunities, matching their interests and personality while also understanding the additional skills and certifications necessary for each career path.
+
+Product Goal: Provide a tool that allows users to navigate various coding career opportunities, matching their interests and personality while also understanding the additional skills and certifications necessary for each career path.
+ 
+Audience this product serves: People who would like to enter into a coding career and require direction.
