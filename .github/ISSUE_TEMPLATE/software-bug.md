@@ -8,10 +8,10 @@ assignees: melanielaporte
 
 ---
 
-**Describe the bug**
-_A clear and concise description of what the bug is._
-Short Summary of the expected behavior:
-Short Summary of the buggy behavior:
+**Describe the bug**<br>
+_A clear and concise description of what the bug is._<br>
+Short Summary of the expected behavior:<br>
+Short Summary of the buggy behavior:<br>
  
  
 **To Reproduce**
@@ -22,22 +22,22 @@ Steps to reproduce the behavior:
 4. See error
  
  
-**Expected behavior**
-_A clear and concise description of what you expected to happen._
+**Expected behavior**<br>
+_A clear and concise description of what you expected to happen._<br>
  
  
-**Screenshots**
-_If applicable, add screenshots to help explain your problem._
+**Screenshots**<br>
+_If applicable, add screenshots to help explain your problem._<br>
  
  
-**Hardware description**
+**Hardware description**<br>
 Model:
 Serial Number:
 Other:
  
-**Test Equipment**
+**Test Equipment**<br>
 Model:
 Serial Number:
 
-**Additional context**
-_Add any other context about the problem here._
+**Additional context**<br>
+_Add any other context about the problem here._<br>
