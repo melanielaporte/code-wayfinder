@@ -18,7 +18,7 @@ Steps to reproduce the behavior:
 1. Model Number:
 2. Serial Number(s):
 3. Location where failure / bug occurred
-4. Hardware configuration. (How connected, any accessories, what else it takes to replicate the system in which the failure occurred.)
+4. Hardware configuration. (_How connected, any accessories, what else it takes to replicate the system in which the failure occurred._)
 5. Extent of Failure
 ** Is failure intermittent?
 ** Is failure fixed by power cycling?
