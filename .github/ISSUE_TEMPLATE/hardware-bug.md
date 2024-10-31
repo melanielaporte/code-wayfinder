@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**Describe the Failure / Bug**
-_A clear and concise description of what the failure / bug is. Describe the problem NOT the fix._
+**Describe the Failure / Bug**<br>
+_A clear and concise description of what the failure / bug is. Describe the problem NOT the fix._<br>
 Short Summary of the expected behavior:
 Short Summary of the buggy behavior:
  
  
-**Device Under Test, aka DUT**
+**Device Under Test, aka DUT**<br>
 Steps to reproduce the behavior:
 1. Model Number:
 2. Serial Number(s):
