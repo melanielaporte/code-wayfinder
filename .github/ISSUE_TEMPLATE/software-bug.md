@@ -1,6 +1,7 @@
 ---
 name: Software Bug
-about: Describe this issue template's purpose here.
+about: Prompting the user to capture the situation for when a software bug is detected.
+
 title: ''
 labels: ''
 assignees: melanielaporte
