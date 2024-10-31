@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Describe this issue template's purpose here.
+about: Prompting the user to capture the situation for when a feature is needed.
 title: ''
 labels: ''
 assignees: ''
